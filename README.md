@@ -26,6 +26,8 @@ venv/Scripts/activate
 venv/Scripts/activate
 ```
 
+Now, the next step installs all dependencies on your system.
+
 ```sh
 pip install -r requirements.txt
 ```
